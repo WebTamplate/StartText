@@ -1,5 +1,5 @@
 # StartText
-Flask Medium stile website
+Flask Medium style website
 
 ## TODO
 - [ ] start urls and main page
